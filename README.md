@@ -21,7 +21,7 @@ As a Business Analyst with a background in reporting and analytics, I built this
 
 ## 🤝 Collaborators
 * **Artist:** [Brishti Bepari](https://www.linkedin.com/in/brishtib/) — Creative Direction & Illustration.
-* **Developer:** [Megha Bepari]((https://www.linkedin.com/in/megha-bepari/)) — UX Design, Logic, & Documentation.
+* **Developer:** [Megha Bepari](https://www.linkedin.com/in/megha-bepari/) — UX Design, Logic, & Documentation.
 
 ---
 *Created by a Business Analyst who loves writing, plants, and upcycling.*
